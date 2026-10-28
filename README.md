@@ -3222,7 +3222,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Free AI visibility and GEO audit: see what AI reads on your site and whether its answers cite you.
 - [Syl Guardian](https://sylai.io/guardian) `https://guardian.sylai.io/mcp`
   [![Syl Guardian MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.sylai/guardian/badges/score.svg)](https://glama.ai/mcp/connectors/io.sylai/guardian)
-  🔑 - Check that an AI agent's claimed effect is causal before it acts, such as on ad spend or budget changes.
+  🔓 - Check that an AI agent's claimed effect is causal before it acts. Free API key needed for tool calls.
 
 - [SyncSignature Email Signatures](https://syncsignature.com/mcp/) `https://mcp.syncsignature.com/mcp`
   [![SyncSignature Email Signatures MCP connector](https://glama.ai/mcp/connectors/com.syncsignature/email-signatures/badges/score.svg)](https://glama.ai/mcp/connectors/com.syncsignature/email-signatures)
